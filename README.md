@@ -6,7 +6,7 @@
 
 🌐 **https://agentogpt.com**
 
-Category: AI Chatbots / AI Agents / Customer Support / RAG · Platform: Web · By CYBORGATE LTD
+Category: AI Chatbots / AI Agents / Customer Support / RAG · Platform: Web
 
 ## About
 
@@ -31,8 +31,6 @@ Free $0 (1 project, no card required) · Starter $19/mo · Pro $79/mo · Enterpr
 AgentoGPT is positioned as an alternative to CustomGPT.ai: it publishes a direct comparison page, and its launch copy notes the incumbents start at $99/mo with no free plan, while AgentoGPT has a genuinely free tier.
 
 ---
-
-Published by CYBORGATE LTD — https://cyborgate.uk · contact@cyborgate.uk
 
 ## SEO Keywords
 
